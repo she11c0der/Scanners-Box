@@ -51,7 +51,8 @@
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
-- https://github.com/she11c0der/fenghuangscanner_v3  (各种端口及弱口令检测，作者wilson9x1)
+- https://github.com/LoRexxar/BScanner  （基于字典的目录扫描小工具） 
+- https://github.com/she11c0der/fenghuangscanner_v3  (各种端口及弱口令检测，作者wilson9x1，原地址失效)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 - https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
