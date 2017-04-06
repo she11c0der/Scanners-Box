@@ -142,7 +142,7 @@
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz漏洞扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
-- https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
+- https://github.com/lijiejie/IIS_shortname_Scanner (IIS短文件名漏洞扫描)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
