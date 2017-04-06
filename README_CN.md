@@ -107,8 +107,8 @@
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter            （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
-- https://github.com/AlessandroZ/LaZagne    （本机密码查看提取工具）
-
+- https://github.com/AlessandroZ/LaZagne    （本机密码查看提取工具）
+- https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
 
 #### 端口扫描、指纹识别以及中间件扫描
 - https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
