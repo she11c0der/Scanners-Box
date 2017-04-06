@@ -39,7 +39,6 @@
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
-- https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
 - https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
