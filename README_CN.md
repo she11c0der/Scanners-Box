@@ -2,7 +2,7 @@
 
 ### 简介
 
-Scanners-Box是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af、brakeman等知名扫描工具不收录**。
+Scanners-Box是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，she11c0der自用版，修改自https://github.com/We5ter/Scanners-Box
 
 **非常欢迎大家贡献commit！**
 
@@ -85,14 +85,14 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 #### 内网渗透
 
-- https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
+- https://github.com/0xwindows/VulScritp              （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
 #### 端口扫描、指纹识别以及中间件扫描
-
-- https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
+- https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
+- https://github.com/ring04h/wyportmap  (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
 - https://github.com/EnableSecurity/wafw00f (WAF产品指纹识别)
 - https://github.com/rbsec/sslscan （ssl类型识别)
@@ -160,28 +160,17 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 ### 收集目的
 
-本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
-
-### 项目维护
-
-**Wester**(sina weibo <a href="http://weibo.com/zzyme/">@西风微雨_Wester</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
+本仓库收集的初衷是为向各类行业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的各种开源或非开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
 
 ### 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
-### 转载
-
-转载请注明来自https://github.com/We5ter/Scanners-Box
-
 ### 致谢
-
-- **@0c0c0f**     
+- **@0c0c0f**     
 - **@藏形匿影(挖财网)**
 - **Mottoin团队**
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
 - **re4lity**
-
-&copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
