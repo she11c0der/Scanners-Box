@@ -1,12 +1,23 @@
-# Scanners-Box 指引
+# 安全从业人员常用工具指引
 
 ### 简介
 
-Scanners-Box是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，she11c0der自用版，修改自https://github.com/We5ter/Scanners-Box
+安全行业从业人员的常用工具指引，包括各类安全学习和检测工具，she11c0der自用版。
 
-**非常欢迎大家贡献commit！**
+******
 
-***
+#### 入门指南
+
+- https://www.gitbook.com/book/t0data/burpsuite/details                  burpsuite实战指南
+- https://github.com/hardenedlinux/linux-exploit-development-tutorial    Linux exploit 开发入门
+
+#### fuzz工具收集
+
+- https://github.com/ivanfratric/winafl
+- https://github.com/attekett/NodeFuzz
+- https://github.com/google/oss-fuzz
+- http://blog.topsec.com.cn/ad_lab/alphafuzzer/
+- http://llvm.org/docs/LibFuzzer.html
 
 #### 子域名枚举
 
@@ -25,6 +36,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 #### 数据库扫描
 
+- https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
 - https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
@@ -33,6 +45,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
 - https://github.com/WhitewidowScanner/whitewidow (又一款数据库扫描器)
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
+- https://github.com/commixproject/commix （注入点命令执行利用工具）
 
 #### 弱口令或信息泄漏扫描
 
@@ -48,13 +61,18 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
+- https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载工具）
+- https://buer.haus/xxegen/  （xxe在线生成利用工具）
 
 #### 物联网设备扫描
 
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
-- https://github.com/jh00nbr/Routerhunter-2.0 （路由器设备漏洞扫描利用)
+- https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
+- https://github.com/reverse-shell/routersploit   （路由器漏洞利用框架）
 - https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
+- https://github.com/RUB-NDS/PRET                 （打印机攻击框架）
+
 
 #### XSS扫描
 
@@ -70,28 +88,30 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
-- https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
+- https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
 #### webshell检测以及病毒分析工具
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
-- https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
+- https://github.com/yassineaddi/BackdoorMan （PHP后门扫描）
 - https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 
-#### 内网渗透
+#### 内网安全渗透测试工具集
 
-- https://github.com/0xwindows/VulScritp              （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
+- https://github.com/0xwindows/VulScritp               （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
-- https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
+- https://github.com/fdiskyou/hunter            （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
+- https://github.com/AlessandroZ/LaZagne    （本机密码查看提取工具）
+
 
 #### 端口扫描、指纹识别以及中间件扫描
-- https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
+- https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
 - https://github.com/ring04h/wyportmap  (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
 - https://github.com/EnableSecurity/wafw00f (WAF产品指纹识别)
@@ -115,16 +135,20 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Nitr4x/whichCDN (CDN识别、检测）
 - https://github.com/secfree/bcrpscan (基于爬虫的web路径扫描器)
 
-#### 专用扫描器
+#### 针对性漏洞测试工具
 
+- https://github.com/brianwrf/hackUtils （java反序列化利用工具集）
+- https://github.com/frohoff/ysoserial （ java反序列化利用工具）
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
-- https://github.com/code-scan/dzscan (discuz扫描)
+- https://github.com/code-scan/dzscan (discuz漏洞扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 - https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
+- https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反序列化漏洞工具）
+- https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
 
 #### 无线网络渗透、扫描
 
@@ -134,10 +158,20 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 #### 代码静态扫描、代码运行栈跟踪
 
+- https://github.com/exakat/php-static-analysis-tools （php静态扫描工具集）
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
+- https://github.com/pwnsdx/BadCode   （PHP代码审计）
+- https://github.com/thesp0nge/dawnscanner （ruby源码审计）
+- https://github.com/presidentbeef/brakeman  （Ruby on Rails应用程序的安全漏洞）
+- https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/    （app黑盒审计）
+- https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
+
+#### Android系列工具：
+- http://sec-redclub.com/index.php/archives/439/
+
 
 #### 模块化扫描、综合扫描器
 
@@ -156,18 +190,33 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
 - https://github.com/zhangzhenfeng/AnyScan (开发中...)
 
-***
+
+#### DDOS防护：
+- https://github.com/ywjt/Dshield
+
+#### Database firewall：
+- https://nim4.github.io/DBShield/
+
+#### waf开源及规则：
+- https://github.com/xsec-lab/x-waf
+- https://github.com/loveshell/ngx_lua_waf
+- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+
+******
 
 ### 收集目的
 
-本仓库收集的初衷是为向各类行业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的各种开源或非开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
+本仓库收集的初衷是向各类行业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的各种开源或非开源安全扫描工具，以帮助安全从业人员对自身业务进行自检，从而提高安全
+
+性。
 
 ### 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
 ### 致谢
-- **@0c0c0f**     
+- **https://github.com/We5ter/Scanners-Box （大部分内容转载于此）
+- **@0c0c0f**     
 - **@藏形匿影(挖财网)**
 - **Mottoin团队**
 - **@BlackHole**
