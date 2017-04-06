@@ -40,7 +40,11 @@
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
 
-#### 数据库扫描
+#### web应用扫描器
+
+- http://github.com/Arachni/arachni   （web应用安全扫描器框架 http://www.arachni-scanner.com）
+
+#### 数据库扫描、注入工具
 
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
