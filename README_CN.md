@@ -144,7 +144,7 @@
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 - https://github.com/lijiejie/IIS_shortname_Scanner (IIS短文件名漏洞扫描)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
-- https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
+- https://github.com/coffeehb/SSTIF （服务器端模板注入漏洞的半自动化工具）
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反序列化漏洞工具）
@@ -169,9 +169,6 @@
 - https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/    （app黑盒审计）
 - https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
 
-#### Android系列工具：
-- http://sec-redclub.com/index.php/archives/439/
-
 
 #### 模块化扫描、综合扫描器
 
@@ -189,6 +186,11 @@
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
 - https://github.com/zhangzhenfeng/AnyScan (开发中...)
+
+
+
+#### Android系列工具：
+- http://sec-redclub.com/index.php/archives/439/
 
 
 #### DDOS防护：
