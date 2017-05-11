@@ -15,6 +15,8 @@
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
 - https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
+- https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表 
+- https://sec-wiki.com/                                                      sec-wiki安全维基百科
 
 
 #### fuzz工具收集
