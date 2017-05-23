@@ -179,7 +179,8 @@
 - https://github.com/thesp0nge/dawnscanner （ruby源码审计）
 - https://github.com/presidentbeef/brakeman  （Ruby on Rails应用程序的安全漏洞）
 - https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/    （app黑盒审计）
-- https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
+- https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
+- http://findbugs.sourceforge.net/        （java源码审计，以插件形式支持各IDE）
 
 
 #### 模块化扫描、综合扫描器
