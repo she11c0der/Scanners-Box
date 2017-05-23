@@ -215,7 +215,7 @@
 #### waf开源及规则：
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
-- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+- https://github.com/SpiderLabs/owasp-modsecurity-crs/
 
 ******
 
