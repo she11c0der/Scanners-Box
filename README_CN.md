@@ -16,7 +16,9 @@
 - https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
 - https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表 
-- https://sec-wiki.com/                                                      sec-wiki安全维基百科
+- https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
+- https://sec-wiki.com/                                                      sec-wiki安全维基百科
+- http://www.freebuf.com/                                                    FreeBuf.COM|关注黑客与极客
 
 
 #### fuzz工具收集
