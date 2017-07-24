@@ -28,6 +28,7 @@
 - https://github.com/google/oss-fuzz
 - http://blog.topsec.com.cn/ad_lab/alphafuzzer/
 - http://llvm.org/docs/LibFuzzer.html
+- https://github.com/Fuzzapi/
 
 #### 子域名枚举
 
