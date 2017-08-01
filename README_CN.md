@@ -61,7 +61,7 @@
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/commixproject/commix （注入点命令执行利用工具）
 
-#### 弱口令或信息泄漏扫描
+#### 弱口令或信息泄漏扫描，hash识别
 
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
@@ -78,6 +78,7 @@
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载工具）
 - https://buer.haus/xxegen/  （xxe在线生成利用工具）
+- https://github.com/AnimeshShaw/Hash-Algorithm-Identifier （支持160多种Hash加密方式的识别）
 
 #### 物联网设备扫描
 
@@ -89,13 +90,15 @@
 - https://github.com/RUB-NDS/PRET                 （打印机攻击框架）
 
 
-#### XSS扫描
+#### XSS利用相关
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
 - https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
 - https://github.com/chuhades/xss_scan (批量扫描xss的python脚本）
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
+- https://github.com/bsmali4/xssfork  （一款xss探测工具）
+- https://github.com/evilcos/xssor2  （Hack with JavaScript）
 
 #### 企业网络自检
 
