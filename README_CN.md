@@ -2,7 +2,8 @@
 
 #### 简介
 
-安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具，开源为主，she11c0der自用版。
+安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具，开源项目为主，自用同时共享，转载带上此github地址   
+                                                                             --by 藏形匿影@挖财网
 
 ******
 
@@ -52,8 +53,9 @@
 #### 数据库扫描、注入工具
 
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
+- https://github.com/ron190/jsql-injection （jsql-injection java写的注入工具，支持数据库全）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
-- https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
+- https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器，效果一般)
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
 - https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
@@ -121,12 +123,12 @@
 
 #### 内网安全渗透测试工具集
 
-- https://github.com/0xwindows/VulScritp               （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
+- https://github.com/0xwindows/VulScritp             （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
-- https://github.com/fdiskyou/hunter            （调用 Windows API 枚举用户登录信息）
-- https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
-- https://github.com/AlessandroZ/LaZagne    （本机密码查看提取工具）
-- https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
+- https://github.com/fdiskyou/hunter                 （调用 Windows API 枚举用户登录信息）
+- https://github.com/BlackHole1/WebRtcXSS            （自动化利用XSS入侵内网）
+- https://github.com/AlessandroZ/LaZagne             （本机密码查看提取工具）
+- https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
 
 #### 端口扫描、指纹识别以及中间件扫描
 - https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
@@ -236,7 +238,6 @@
 ### 致谢
 - **https://github.com/We5ter/Scanners-Box （大部分内容转载于此）
 - **@0c0c0f**     
-- **@藏形匿影(挖财网)**
 - **Mottoin团队**
 - **@BlackHole**
 - **@CodeColorist**
