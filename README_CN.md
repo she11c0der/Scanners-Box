@@ -2,15 +2,15 @@
 
 #### 简介
 
-安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具，开源项目为主，自用同时共享，转载带上此github地址   
-                                                                             --by 藏形匿影@挖财网
+安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具。
+以开源项目为主，自用同时共享，转载带上此github地址 --by 藏形匿影@挖财网
 
 ******
 
 #### 入门指南
 
-- https://wizardforcel.gitbooks.io/web-hacking-101/content/                  Web Hacking 101 中文版
-- https://wizardforcel.gitbooks.io/asani/content/                            浅入浅出Android安全 中文版
+- https://wizardforcel.gitbooks.io/web-hacking-101/content/                  Web Hacking 101 中文版
+- https://wizardforcel.gitbooks.io/asani/content/                            浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content/                             Android 渗透测试学习手册 中文版
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/  Kali Linux Web渗透测试秘籍 中文版
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
