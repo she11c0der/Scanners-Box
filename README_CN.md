@@ -13,13 +13,13 @@
 - https://wizardforcel.gitbooks.io/asani/content/                            浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content/                             Android 渗透测试学习手册 中文版
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/  Kali Linux Web渗透测试秘籍 中文版
-- https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
+- https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
 - https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
-- http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
+- http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
 - https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表 
-- https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
-- https://sec-wiki.com/                                                      sec-wiki安全维基百科
-- http://www.freebuf.com/                                                    FreeBuf.COM|关注黑客与极客
+- https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
+- https://sec-wiki.com/                                                      sec-wiki安全维基百科
+- http://www.freebuf.com/                                                    FreeBuf.COM|关注黑客与极客
 
 
 #### fuzz工具收集
@@ -87,9 +87,9 @@
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
-- https://github.com/reverse-shell/routersploit   （路由器漏洞利用框架）
-- https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
-- https://github.com/RUB-NDS/PRET                 （打印机攻击框架）
+- https://github.com/reverse-shell/routersploit （路由器漏洞利用框架）
+- https://github.com/scu-igroup/telnet-scanner  (telnet服务密码撞库)
+- https://github.com/RUB-NDS/PRET              （打印机攻击框架）
 
 
 #### XSS利用相关
@@ -224,6 +224,17 @@
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/
 - https://github.com/lanzsec/tengine_waf
+
+#### 蜜罐：
+
+- https://github.com/dtag-dev-sec/    （Pot多蜜罐平台，参考文章http://www.freebuf.com/sectool/134504.html ）
+- https://github.com/threatstream/mhn 
+- https://github.com/micheloosterhof/cowrie
+- https://github.com/ohmyadd/wetland  （基于Paramiko的高交互SSH蜜罐）
+- https://github.com/gento/dionaea
+- https://github.com/atiger77/Dionaea （Web_Dionaea: 基于Docker的蜜罐系统）
+- https://github.com/Cymmetria/StrutsHoneypot 
+- https://github.com/mushorg/conpot （工控蜜罐）
 
 ******
 
