@@ -169,6 +169,7 @@
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反序列化漏洞工具）
 - https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
+- https://github.com/lianfeng30/githubscan  （github代码泄露扫描）
 
 #### 无线网络渗透、扫描
 
@@ -188,7 +189,8 @@
 - https://github.com/presidentbeef/brakeman  （Ruby on Rails应用程序的安全漏洞）
 - https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/    （app黑盒审计）
 - https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
-- http://findbugs.sourceforge.net/        （java源码审计，以插件形式支持各IDE）
+- http://findbugs.sourceforge.net/        （java源码审计，支持各IDE）
+- https://github.com/find-sec-bugs/find-sec-bugs （（java源码安全审计，支持各IDE）
 
 
 #### 模块化扫描、综合扫描器
@@ -211,6 +213,7 @@
 
 #### Android系列工具：
 - http://sec-redclub.com/index.php/archives/439/
+- https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码安全扫描工具，根据Find-Sec-Bugs修改）
 
 
 #### DDOS防护：
