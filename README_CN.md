@@ -192,7 +192,7 @@
 - https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
 - http://findbugs.sourceforge.net/        （java源码审计，支持各IDE）
 - https://github.com/find-sec-bugs/find-sec-bugs （（java源码安全审计，支持各IDE）
-- http://magic.360.cn/zh/index.html  （火线（Fireline）是360出的一款免费静态代码分析工具，主要针对移动端Android产品）
+- http://magic.360.cn/zh/index.html  （火线Fireline是360出的一款免费静态代码分析工具，推荐使用）
 
 
 #### 模块化扫描、综合扫描器
