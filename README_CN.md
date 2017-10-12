@@ -178,6 +178,7 @@
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
+- https://github.com/chrisk44/Hijacker/  （一款All-in-One型的Android端WiFi破解工具）
 
 #### 代码静态扫描、代码运行栈跟踪
 
