@@ -184,6 +184,7 @@
 
 - https://github.com/exakat/php-static-analysis-tools （php静态扫描工具集）
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
+- https://github.com/LoRexxar/Cobra-W （cobra白帽子版本）
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
