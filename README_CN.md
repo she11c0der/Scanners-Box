@@ -195,8 +195,9 @@
 - https://github.com/alibaba/iOSSecAudit   （iOS安全审计）
 - http://findbugs.sourceforge.net/        （java源码审计，支持各IDE）
 - https://github.com/find-sec-bugs/find-sec-bugs （（java源码安全审计，支持各IDE）
-- http://magic.360.cn/zh/index.html  （火线Fireline是360出的一款免费静态代码分析工具，推荐使用）
+- http://magic.360.cn/zh/index.html  （火线Fireline是360出的免费静态代码分析工具，偏向安卓代码审计，推荐使用）
 - https://github.com/facebook/infer （ Java, Objective-C and C, written in OCaml，推荐使用）
+- https://github.com/Tencent/TscanCode （TscanCode是针对C++/C#/Lua代码的静态代码扫描解决方案，腾讯出品）
 
 
 
