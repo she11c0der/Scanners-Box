@@ -199,8 +199,7 @@
 - http://magic.360.cn/zh/index.html  （火线Fireline是360出的免费静态代码分析工具，偏向安卓代码审计，推荐使用）
 - https://github.com/facebook/infer （ Java, Objective-C and C, written in OCaml，推荐使用）
 - https://github.com/Tencent/TscanCode （TscanCode是针对C++/C#/Lua代码的静态代码扫描解决方案，腾讯出品）
-
-
+- https://github.com/chaitin/passionfruit （开源iOS应用安全分析工具）
 
 #### 模块化扫描、综合扫描器
 
@@ -259,7 +258,7 @@
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
 ### 致谢
-- **https://github.com/We5ter/Scanners-Box （大部分内容转载于此）
+- **https://github.com/We5ter/Scanners-Box （部分内容转载于此）
 - **@0c0c0f**     
 - **Mottoin团队**
 - **@BlackHole**
