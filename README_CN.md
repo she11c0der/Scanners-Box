@@ -155,6 +155,7 @@
 - https://github.com/chichou/grab.js (类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议)
 - https://github.com/Nitr4x/whichCDN (CDN识别、检测）
 - https://github.com/secfree/bcrpscan (基于爬虫的web路径扫描器)
+- https://github.com/zerokeeper/WebEye （一个简单识别WEB、CMS、WAF、WHOIS信息、以及语言框架的小脚本）
 
 #### 针对性漏洞测试工具
 
