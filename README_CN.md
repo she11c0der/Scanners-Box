@@ -14,7 +14,8 @@
 - https://wizardforcel.gitbooks.io/lpad/content/                             Android 渗透测试学习手册 中文版
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/  Kali Linux Web渗透测试秘籍 中文版
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
-- https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
+- https://github.com/smartFlash/pySecurity                                   Python系列教程教程
+- https://www.gitbook.com/book/t0data/burpsuite/details                      Burpsuite实战指南
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
 - https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表 
 - https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
@@ -30,6 +31,7 @@
 - http://blog.topsec.com.cn/ad_lab/alphafuzzer/
 - http://llvm.org/docs/LibFuzzer.html
 - https://github.com/Fuzzapi/
+- https://github.com/mseclab/PyJFuzz  Python JSON Fuzzer
 
 #### 子域名枚举
 
@@ -200,6 +202,10 @@
 - https://github.com/facebook/infer （ Java, Objective-C and C, written in OCaml，推荐使用）
 - https://github.com/Tencent/TscanCode （TscanCode是针对C++/C#/Lua代码的静态代码扫描解决方案，腾讯出品）
 - https://github.com/chaitin/passionfruit （开源iOS应用安全分析工具）
+- https://github.com/shengqi158/pyvulhunter （python代码审计工具）
+- https://github.com/openstack/bandit  （基于AST语法树的Python代码审计工具 来自OpenStack安全团队）
+- https://github.com/openstack/syntribos (Python API代码审计工具 来自OpenStack安全团队）
+- https://github.com/python-security/pyt （python web代码审计工具）
 
 #### 模块化扫描、综合扫描器
 
