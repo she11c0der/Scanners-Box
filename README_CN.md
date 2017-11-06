@@ -104,6 +104,8 @@
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
 - https://github.com/bsmali4/xssfork  （一款xss探测工具）
 - https://github.com/evilcos/xssor2  （Hack with JavaScript）
+- https://github.com/bugbountyforum/XSS-Radar  （A Chrome extension for fast and easy XSS fuzzing）
+
 
 #### 企业网络自检
 
