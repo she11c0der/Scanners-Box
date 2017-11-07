@@ -177,6 +177,7 @@
 - https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
 - https://github.com/lianfeng30/githubscan  （github代码泄露扫描）
 - https://github.com/Lucifer1993/struts-scan  （开源Struts2全版本漏洞检测工具）
+- https://github.com/Lucifer1993/AngelSword （Python3编写的CMS漏洞检测框架）
 
 #### 无线网络渗透、扫描
 
