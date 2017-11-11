@@ -125,6 +125,7 @@
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
+- https://github.com/Huseck/scan_kill_php_shell （针对PHP网马的正则查杀）
 
 #### 内网安全渗透测试工具集
 
