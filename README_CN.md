@@ -165,7 +165,8 @@
 #### 针对性漏洞测试工具
 
 - https://github.com/brianwrf/hackUtils （java反序列化利用工具集）
-- https://github.com/frohoff/ysoserial （ java反序列化利用工具）
+- https://github.com/frohoff/ysoserial （java反序列化利用工具）
+- https://github.com/mbechler/marshalsec (java，json反序列化利用工具)
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz漏洞扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
