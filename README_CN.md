@@ -72,7 +72,7 @@
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
 - https://github.com/LoRexxar/BScanner  （基于字典的目录扫描小工具） 
-- https://github.com/wilson9x1/fenghuangscanner  (各种端口及弱口令检测，推荐使用)
+- https://github.com/wilson9x1/fenghuangscanner  (各种端口及弱口令检测)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 - https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
@@ -84,6 +84,7 @@
 - https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载工具）
 - https://buer.haus/xxegen/  （xxe在线生成利用工具）
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier （支持160多种Hash加密方式的识别）
+- https://github.com/x90skysn3k/brutespry  （通过nmap扫描结果去爆破各种协议弱口令）
 
 #### 物联网设备扫描
 
