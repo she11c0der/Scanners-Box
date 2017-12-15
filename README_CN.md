@@ -26,8 +26,10 @@
 #### fuzz工具收集
 
 - https://github.com/ivanfratric/winafl
-- https://github.com/attekett/NodeFuzz
+- https://github.com/google/honggfuzz
 - https://github.com/google/oss-fuzz
+- https://github.com/riusksk/riufuzz
+- https://github.com/attekett/NodeFuzz
 - http://blog.topsec.com.cn/ad_lab/alphafuzzer/
 - http://llvm.org/docs/LibFuzzer.html
 - https://github.com/Fuzzapi/
@@ -213,6 +215,8 @@
 - https://github.com/openstack/syntribos (Python API代码审计工具 来自OpenStack安全团队）
 - https://github.com/python-security/pyt （python web代码审计工具）
 - https://github.com/spotbugs/spotbugs (SpotBugs是FindBugs的继任者，静态分析的工具，用来寻找Java代码中bug）
+- https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码扫描工具，FindSecBugs修改）
+
 
 #### 模块化扫描、综合扫描器
 
