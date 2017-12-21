@@ -3,7 +3,7 @@
 #### 简介
 
 安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具。
-以开源项目为主，自用同时共享，转载带上此github地址 --by 藏形匿影@挖财网
+以开源项目为主，自用同时共享，转载带上此github地址 --by 藏形匿影
 
 ******
 
@@ -21,6 +21,7 @@
 - https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
 - https://sec-wiki.com/                                                      sec-wiki安全维基百科
 - http://www.freebuf.com/                                                    FreeBuf.COM|关注黑客与极客
+- https://sqlwiki.netspi.com/                                                sqlwiki
 
 
 #### fuzz工具收集
