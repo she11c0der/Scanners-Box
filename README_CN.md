@@ -234,6 +234,7 @@
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
+- https://github.com/boy-hack/w9scan （一款兼容bugscan插件的扫描器）
 
 #### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
