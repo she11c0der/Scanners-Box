@@ -88,6 +88,7 @@
 - https://buer.haus/xxegen/  （xxe在线生成利用工具）
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier （支持160多种Hash加密方式的识别）
 - https://github.com/x90skysn3k/brutespry  （通过nmap扫描结果去爆破各种协议弱口令）
+- https://github.com/FeeiCN/GSIL （Github敏感信息泄露监控）
 
 #### 物联网设备扫描
 
