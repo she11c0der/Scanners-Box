@@ -16,7 +16,7 @@
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
 - https://github.com/smartFlash/pySecurity                                   Python系列教程教程
 - https://www.gitbook.com/book/t0data/burpsuite/details                      Burpsuite实战指南
-- http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
+- http://www.freebuf.com/articles/web/152891.html                            Node.js Web的安全问题
 - https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表 
 - https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
 - https://sec-wiki.com/                                                      sec-wiki安全维基百科
