@@ -21,7 +21,7 @@
 - https://security.tencent.com/index.php/blog/msg/113                        中小企业网络安全建设指引（TSRC）
 - https://sec-wiki.com/                                                      sec-wiki安全维基百科
 - http://www.freebuf.com/                                                    FreeBuf.COM|关注黑客与极客
-- https://sqlwiki.netspi.com/                                                sqlwiki
+- https://sqlwiki.netspi.com/                                                sqlwiki
 
 
 #### fuzz工具收集
