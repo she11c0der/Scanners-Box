@@ -52,9 +52,6 @@
 - https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
 - https://github.com/bit4woo/Teemo （域名收集及枚举工具）
 
-#### web应用扫描器
-
-- http://github.com/Arachni/arachni   （web应用安全扫描器框架 http://www.arachni-scanner.com）
 
 #### 数据库扫描、注入工具
 
@@ -220,27 +217,51 @@
 - https://github.com/python-security/pyt （python web代码审计工具）
 - https://github.com/spotbugs/spotbugs (SpotBugs是FindBugs的继任者，用来寻找Java代码中bug）
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码扫描工具，FindSecBugs修改）
-
+- https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
+- https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 
 #### 模块化扫描、综合扫描器
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
-- https://github.com/blackye/lalascan (分布式web漏洞扫描框架，集合owasp top10漏洞扫描和边界资产发现能力)
+- https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
-- https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
-- https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
+- https://github.com/ysrc/GourdScanV2 （ysrc出品的被动式漏洞扫描工具)
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
-- https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
-- https://github.com/Lcys/lcyscan (扫描效果未验证）
+- https://github.com/3xp10it/3xp10it （自动化渗透测试框架，支持cdn真实ip查找、指纹识别等)
+- https://github.com/Lcys/lcyscan (python插件化漏洞扫描器，支持生成扫描报表）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
-- https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
-- https://github.com/boy-hack/w9scan （一款兼容bugscan插件的扫描器）
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner （支持检测SQLi/XSS/LFI/RFI等漏洞的扫描器）
+- https://github.com/Skycrab/leakScan （Web图形化的的漏洞扫描框架）
+- https://github.com/zhangzhenfeng/AnyScan (一款web化的自动化渗透测试框架)
+- https://github.com/Tuhinshubhra/RED_HAWK (一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
+- https://github.com/Arachni/arachni (高度集成化的Web应用漏洞扫描框架，支持REST、RPC等api调用）
+- https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
+- https://github.com/boy-hack/w9scan (一款基于bugscan扫描和架构思想的扫描器）
+- https://github.com/juansacco/exploitpack (渗透测试集成框架，包含超过38,000+ exploits)
+- https://github.com/swisskyrepo/DamnWebScanner （基于chrome/opera插件的被动式漏洞扫描）
+- https://github.com/anilbaranyelken/tulpar (支持多种web漏洞扫描，命令行环境使用）
+- https://github.com/m4ll0k/Spaghetti (支持指纹识别、文件目录爆破、SQL/XSS/RFI等应用漏洞扫描，也可用于struts、ShellShock等扫描)
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器）
+- https://github.com/0xsauby/yasuo (使用ruby开发的扫描网络中主机存在的第三方web应用服务漏洞）
+- https://github.com/hatRiot/clusterd (Web应用自动化扫描框架,支持自动化上传webshell)
+- https://github.com/erevus-cn/pocscan （开源Poc调用框架,可调用Pocsuite,Tangscan,Beebeeto,Knowsec老版本POC，可docker部署）
+- https://github.com/TophantTechnology/osprey (斗象能力中心出品并长期维护的开源漏洞检测框架)
+- https://github.com/yangbh/Hammer (Web应用漏洞扫描框架)
+- https://github.com/Lucifer1993/AngelSword (Web应用漏洞扫描框架,基于python3)
+- https://github.com/secrary/EllaScanner (被动式漏洞扫描，支持历史cve编号漏洞识别)
+- https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
+- https://github.com/sullo/nikto (Web服务综合型扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
+- https://github.com/UltimateHackers/Striker (多方位信息收集、指纹识别及漏洞扫描工具）
+- https://github.com/dermotblair/webvulscan (web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
+- https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
+- https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 
 #### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
+- https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
 
 #### Android系列工具：
 - http://sec-redclub.com/index.php/archives/439/
