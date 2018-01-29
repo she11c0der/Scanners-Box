@@ -69,7 +69,7 @@
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/commixproject/commix （注入点命令执行利用工具）
 
-#### 弱口令或信息泄漏扫描，hash识别
+#### 弱口令或信息泄漏扫描，hash识别，日志分析插件
 
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
@@ -81,14 +81,16 @@
 - https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
 - https://github.com/netxfly/crack_ssh （go写的协程版的ssh\redis\mongodb弱口令破解工具）
 - https://github.com/n0tr00t/Sreg (通过输入email、phone、username的返回用户注册的所有互联网护照信息)
-- https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
-- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载工具）
 - https://buer.haus/xxegen/  （xxe在线生成利用工具）
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier （支持160多种Hash加密方式的识别）
 - https://github.com/x90skysn3k/brutespry  （通过nmap扫描结果去爆破各种协议弱口令）
+- https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
+- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
+- https://github.com/0xbug/Hawkeye （Github敏感信息泄露监控）
 - https://github.com/FeeiCN/GSIL （Github敏感信息泄露监控）
+- https://github.com/anbai-inc/AttackFilter （日志安全攻击分析插件）
 
 #### 物联网设备扫描
 
