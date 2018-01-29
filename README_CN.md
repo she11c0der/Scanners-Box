@@ -183,7 +183,6 @@
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反序列化漏洞工具）
 - https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
-- https://github.com/lianfeng30/githubscan  （github代码泄露扫描）
 - https://github.com/Lucifer1993/struts-scan  （开源Struts2全版本漏洞检测工具）
 
 
