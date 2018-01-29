@@ -218,7 +218,7 @@
 - https://github.com/openstack/bandit  （基于AST语法树的Python代码审计工具 来自OpenStack安全团队）
 - https://github.com/openstack/syntribos (Python API代码审计工具 来自OpenStack安全团队）
 - https://github.com/python-security/pyt （python web代码审计工具）
-- https://github.com/spotbugs/spotbugs (SpotBugs是FindBugs的继任者，静态分析的工具，用来寻找Java代码中bug）
+- https://github.com/spotbugs/spotbugs (SpotBugs是FindBugs的继任者，用来寻找Java代码中bug）
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码扫描工具，FindSecBugs修改）
 
 
