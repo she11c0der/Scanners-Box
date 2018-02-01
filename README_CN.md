@@ -37,8 +37,10 @@
 - http://llvm.org/docs/LibFuzzer.html
 - https://github.com/Fuzzapi/
 - https://github.com/mseclab/PyJFuzz  Python JSON Fuzzer
+- https://github.com/k0keoyo/kDriver-Fuzzer
+- https://github.com/koutto/ioctlbf
 
-#### 子域名枚举
+### 子域名枚举
 
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
 - https://github.com/ring04h/wydomain (子域名字典穷举)
