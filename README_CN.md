@@ -91,6 +91,7 @@
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/0xbug/Hawkeye （Github敏感信息泄露监控）
 - https://github.com/FeeiCN/GSIL （Github敏感信息泄露监控）
+- https://github.com/MiSecurity/x-patrol （Github泄露扫描系统)
 - https://github.com/anbai-inc/AttackFilter （日志安全攻击分析插件）
 
 #### 物联网设备扫描
