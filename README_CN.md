@@ -70,6 +70,7 @@
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/commixproject/commix （注入点命令执行利用工具）
 
+
 #### 弱口令或信息泄漏扫描，hash识别，日志分析插件
 
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
@@ -261,6 +262,7 @@
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
+- https://github.com/archerysec/archerysec （漏洞扫描和管理平台）
 
 #### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
