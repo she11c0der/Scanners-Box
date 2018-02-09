@@ -150,7 +150,9 @@
 - https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
 - https://github.com/ring04h/wyportmap  (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
-- https://github.com/EnableSecurity/wafw00f (WAF产品指纹识别)
+- https://github.com/EnableSecurity/wafw00f (waf产品指纹识别)
+- https://github.com/Cryin/wafid (waf产品指纹识别)
+- https://github.com/3xp10it/bypass_waf （waf自动暴破）
 - https://github.com/rbsec/sslscan （ssl类型识别)
 - https://github.com/urbanadventurer/whatweb (web指纹识别)
 - https://github.com/tanjiti/FingerPrint (web应用指纹识别)
@@ -161,7 +163,6 @@
 - https://github.com/maurosoria/dirsearch (Web path scanner)
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 - https://github.com/RASSec/RASscan (端口服务扫描)
-- https://github.com/3xp10it/bypass_waf （waf自动暴破）
 - https://github.com/3xp10it/xcdn (尝试找出cdn背后的真实ip)  
 - https://github.com/Xyntax/BingC （基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
