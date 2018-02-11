@@ -285,6 +285,8 @@
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/
 - https://github.com/lanzsec/tengine_waf
+- https://github.com/bollwarm/App-Waf
+- https://gitee.com/miracleqi/OpenWAF
 
 #### 蜜罐：
 
