@@ -311,9 +311,13 @@
 
 ### 致谢
 - **https://github.com/We5ter/Scanners-Box （部分内容转载于此）
-- **@0c0c0f**     
-- **Mottoin团队**
-- **@BlackHole**
-- **@CodeColorist**
-- **@3xp10it**
-- **re4lity**
+@0c0c0f
+@Mottoin team
+@BlackHole
+@CodeColorist
+@3xp10it
+@re4lity
+@UltimateHackers team
+@boy-hack
+@marsII
+@tom0li
