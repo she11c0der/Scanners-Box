@@ -227,7 +227,7 @@
 - https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
 - https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 
-#### 模块化扫描、综合扫描器
+#### 模块化扫描、综合扫描器、shellcode工具
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
@@ -265,6 +265,7 @@
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 - https://github.com/archerysec/archerysec （漏洞扫描和管理平台）
+- https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 
 #### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
