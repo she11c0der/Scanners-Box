@@ -190,6 +190,7 @@
 - https://github.com/GoSecure/break-fast-serial （借助DNS解析来检测Java反序列化漏洞工具）
 - https://github.com/dirtycow/dirtycow.github.io （脏牛提权漏洞exp）
 - https://github.com/Lucifer1993/struts-scan  （开源Struts2全版本漏洞检测工具）
+- https://github.com/stevespringett/dependency-track （第三方库漏洞检查工具）
 
 
 #### 无线网络渗透、扫描
@@ -288,7 +289,7 @@
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/
 - https://github.com/lanzsec/tengine_waf
 - https://github.com/bollwarm/App-Waf
-- https://gitee.com/miracleqi/OpenWAF
+- https://github.com/titansec/OpenWAF
 
 #### 蜜罐：
 
