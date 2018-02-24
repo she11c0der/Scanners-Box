@@ -62,7 +62,7 @@
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/ron190/jsql-injection （jsql-injection java写的注入工具，支持数据库全）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
-- https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器，效果一般)
+- https://github.com/stamparm/DSSS (sql注入漏洞扫描小工具)
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
 - https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
@@ -115,6 +115,7 @@
 - https://github.com/bsmali4/xssfork  （一款xss探测工具）
 - https://github.com/evilcos/xssor2  （Hack with JavaScript）
 - https://github.com/bugbountyforum/XSS-Radar  （A Chrome extension for fast and easy XSS fuzzing）
+- https://github.com/stamparm/DSXS （xss跨站漏洞扫描小工具）
 
 
 #### 企业网络自检
