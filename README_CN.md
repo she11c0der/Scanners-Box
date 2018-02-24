@@ -156,6 +156,7 @@
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
 - https://github.com/rbsec/sslscan （ssl类型识别)
 - https://github.com/urbanadventurer/whatweb (web指纹识别)
+- https://github.com/boy-hack/gwhatweb （网站CMS识别，1400+指纹库 json格式 MD5+关键词匹配）
 - https://github.com/tanjiti/FingerPrint (web应用指纹识别)
 - https://github.com/nanshihui/Scan-T （网络爬虫式指纹识别)
 - https://github.com/OffensivePython/Nscan (a fast Network scanner inspired by Masscan and Zmap)
