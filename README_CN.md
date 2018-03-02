@@ -22,8 +22,15 @@
 - http://www.freebuf.com/                                                     FreeBuf.COM|关注黑客与极客
 - http://www.freebuf.com/articles/web/152891.html                             Node.js Web的安全问题
 - https://yq.aliyun.com/articles/87668                                        Node.js 安全清单
-- https://sqlwiki.netspi.com/                                                 sqlwiki
+                                                 sqlwiki
 - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md API-Security-Checklist
+
+### sql-injection sql注入语句归类整理站点
+- https://sqlwiki.netspi.com/
+- http://websec.ca/kb/sql_injection
+- http://www.sqlinjectionwiki.com/
+- http://pentestmonkey.net/category/cheat-sheet/sql-injection
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 
 
 #### fuzz工具收集
