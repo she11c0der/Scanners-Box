@@ -62,6 +62,7 @@
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
 - https://github.com/bit4woo/Teemo （域名收集及枚举工具）
+- https://github.com/FeeiCN/ESD （枚举子域名)
 
 
 #### 数据库扫描、注入工具
