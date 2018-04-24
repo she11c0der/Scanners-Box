@@ -1,14 +1,13 @@
-# 安全从业人员常用工具及学习指引
+## 安全从业人员常用工具及学习指引 ##
 
-#### 简介
+### 简介
 
 安全行业从业人员常用工具及学习指引，包括各类在线安全学习资料和安全检测工具。
-以开源项目为主，自用同时共享，转载带上此github地址 --by 藏形匿影
+以开源项目为主，自用同时共享，转载请带上此git地址 --by 藏形匿影
 
 ******
 
-#### 入门指南
-
+### 入门指南
 - https://wizardforcel.gitbooks.io/web-hacking-101/content/                   Web Hacking 101 中文版
 - https://wizardforcel.gitbooks.io/asani/content/                             浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content/                              Android 渗透测试学习手册 中文版
@@ -22,8 +21,8 @@
 - http://www.freebuf.com/                                                     FreeBuf.COM|关注黑客与极客
 - http://www.freebuf.com/articles/web/152891.html                             Node.js Web的安全问题
 - https://yq.aliyun.com/articles/87668                                        Node.js 安全清单
-                                                 sqlwiki
 - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md API-Security-Checklist
+
 
 ### sql-injection sql注入语句归类整理站点
 - https://sqlwiki.netspi.com/
@@ -33,8 +32,12 @@
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 
 
-#### fuzz工具收集
+### 各种漏洞环境，开源漏洞靶场
+- https://github.com/Medicean/VulApps
+- https://github.com/vulhub/vulhub
 
+
+### fuzz工具收集
 - https://github.com/ivanfratric/winafl
 - https://github.com/google/honggfuzz
 - https://github.com/google/oss-fuzz
@@ -47,8 +50,8 @@
 - https://github.com/k0keoyo/kDriver-Fuzzer
 - https://github.com/koutto/ioctlbf
 
-### 子域名枚举
 
+### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
 - https://github.com/ring04h/wydomain (子域名字典穷举)
 - https://github.com/le4f/dnsmaper (子域名枚举与地图标记)
@@ -65,8 +68,7 @@
 - https://github.com/FeeiCN/ESD （枚举子域名)
 
 
-#### 数据库扫描、注入工具
-
+### 数据库扫描、注入工具
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/ron190/jsql-injection （jsql-injection java写的注入工具，支持数据库全）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
@@ -79,8 +81,7 @@
 - https://github.com/commixproject/commix （注入点命令执行利用工具）
 
 
-#### 弱口令或信息泄漏扫描，hash识别，日志分析插件
-
+### 弱口令或信息泄漏扫描，hash识别，日志分析插件
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
@@ -103,8 +104,8 @@
 - https://github.com/MiSecurity/x-patrol （Github泄露扫描系统)
 - https://github.com/anbai-inc/AttackFilter （日志安全攻击分析插件）
 
-#### 物联网设备扫描
 
+### 物联网设备扫描
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
@@ -113,8 +114,7 @@
 - https://github.com/RUB-NDS/PRET              （打印机攻击框架）
 
 
-#### XSS利用相关
-
+### XSS利用相关
 - https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
 - https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
@@ -126,16 +126,15 @@
 - https://github.com/stamparm/DSXS （xss跨站漏洞扫描小工具）
 
 
-#### 企业网络自检
-
+### 企业网络自检
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
-#### webshell检测以及病毒分析工具
 
+### webshell检测以及病毒分析工具
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell_samples （webshell样本库合集）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （PHP后门扫描）
@@ -146,8 +145,8 @@
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 - https://github.com/Huseck/scan_kill_php_shell （针对PHP网马的正则查杀）
 
-#### 内网安全渗透测试工具集
 
+### 内网安全渗透测试工具集
 - https://github.com/0xwindows/VulScritp             （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter                 （调用 Windows API 枚举用户登录信息）
@@ -155,7 +154,8 @@
 - https://github.com/AlessandroZ/LaZagne             （本机密码查看提取工具）
 - https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
 
-#### 端口扫描、指纹识别以及中间件扫描
+
+### 端口扫描、指纹识别以及中间件扫描
 - https://nmap.org/download.html        (Nmap端口扫描器之王,https://svn.nmap.org/)
 - https://github.com/ring04h/wyportmap  (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -184,8 +184,8 @@
 - https://github.com/zerokeeper/WebEye （一个简单识别WEB、CMS、WAF、WHOIS信息、以及语言框架的小脚本）
 - https://github.com/cnnetarmy/SRCHunter （SRCHunter一款基于python的开源扫描器）
 
-#### 针对性漏洞测试工具
 
+### 针对性漏洞测试工具
 - https://github.com/brianwrf/hackUtils （java反序列化利用工具集）
 - https://github.com/frohoff/ysoserial （java反序列化利用工具）
 - https://github.com/mbechler/marshalsec (java，json反序列化利用工具)
@@ -204,16 +204,15 @@
 - https://github.com/jeremylong/DependencyCheck （第三方库漏洞检查工具-owasp出品）
 
 
-#### 无线网络渗透、扫描
-
+### 无线网络渗透、扫描
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 - https://github.com/chrisk44/Hijacker/  （一款All-in-One型的Android端WiFi破解工具）
 - https://github.com/entropy1337/infernal-twin （自动化无线黑客工具）
 
-#### 代码静态扫描、代码运行栈跟踪
 
+### 代码静态扫描、代码运行栈跟踪
 - https://github.com/exakat/php-static-analysis-tools （php静态扫描工具集）
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/LoRexxar/Cobra-W （cobra白帽子版本）
@@ -240,8 +239,8 @@
 - https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
 - https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 
-#### 模块化扫描、综合扫描器、shellcode工具
 
+### 模块化扫描、综合扫描器、shellcode工具
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
@@ -280,22 +279,26 @@
 - https://github.com/archerysec/archerysec （漏洞扫描和管理平台）
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 
-#### 工控安全工具集
+
+### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
 
-#### Android系列工具：
+
+### Android系列工具：
 - http://sec-redclub.com/index.php/archives/439/
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码安全扫描工具，根据Find-Sec-Bugs修改）
 
 
-#### DDOS防护：
+### DDOS防护：
 - https://github.com/ywjt/Dshield
 
-#### Database firewall：
+
+### Database firewall：
 - https://nim4.github.io/DBShield/
 
-#### waf开源及规则：
+
+### 开源waf及规则：
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/
@@ -304,8 +307,8 @@
 - https://github.com/titansec/OpenWAF
 - https://github.com/jx-sec/jxwaf
 
-#### 蜜罐：
 
+### 蜜罐：
 - https://github.com/dtag-dev-sec/    （Pot多蜜罐平台，参考文章http://www.freebuf.com/sectool/134504.html ）
 - https://github.com/threatstream/mhn 
 - https://github.com/micheloosterhof/cowrie
