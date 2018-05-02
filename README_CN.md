@@ -24,13 +24,22 @@
 - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md API-Security-Checklist
 
 
-### sql-injection sql注入语句归类整理站点
+### sql-injection sql注入语句整理站点
 - https://sqlwiki.netspi.com/
 - http://websec.ca/kb/sql_injection
 - http://www.sqlinjectionwiki.com/
 - http://pentestmonkey.net/category/cheat-sheet/sql-injection
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 
+### 在线恶意软件分析服务站点
+- https://www.virustotal.com/
+- https://habo.qq.com/
+- https://www.reverse.it/?lang=zh
+- http://www.threatexpert.com/submit.aspx
+- https://www.vicheck.ca/
+- https://virusshare.com/
+- https://malshare.com/
+- https://x.threatbook.cn/en
 
 ### 各种漏洞环境，开源漏洞靶场
 - https://github.com/Medicean/VulApps
