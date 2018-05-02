@@ -277,6 +277,7 @@
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 - https://github.com/archerysec/archerysec （漏洞扫描和管理平台）
+- https://github.com/jeffzh3ng/InsectsAwake （基于 Flask 应用框架的漏洞扫描系统）
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 
 
