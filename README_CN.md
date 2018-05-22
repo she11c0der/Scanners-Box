@@ -75,6 +75,9 @@
 - https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
 - https://github.com/bit4woo/Teemo （域名收集及枚举工具）
 - https://github.com/FeeiCN/ESD （枚举子域名)
+- https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
+- https://github.com/caffix/amass (Go语言开发的子域名枚举工具)
+- https://github.com/Ice3man543/subfinder (一个强劲的子域名枚举工具)
 
 
 ### 数据库扫描、注入工具
@@ -153,6 +156,11 @@
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 - https://github.com/Huseck/scan_kill_php_shell （针对PHP网马的正则查杀）
+- https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
+- https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
+- https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
+- https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
+- https://github.com/droidefense/engine (高级安卓木马病毒分析框架）
 
 
 ### 内网安全渗透测试工具集
@@ -213,12 +221,17 @@
 - https://github.com/jeremylong/DependencyCheck （第三方库漏洞检查工具-owasp出品）
 
 
-### 无线网络渗透、扫描
+### 无线网络渗透、扫描、审计
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 - https://github.com/chrisk44/Hijacker/  （一款All-in-One型的Android端WiFi破解工具）
 - https://github.com/entropy1337/infernal-twin （自动化无线黑客工具）
+- https://github.com/MisterBianco/BoopSuite (无线网络审计工具，支持2-5GHZ频段）
+- https://github.com/DanMcInerney/LANs.py (ARP欺骗，无线网络劫持）
+- https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
+- https://github.com/derv82/wifite2 （自动化无线网络攻击工具wifite的重构版本）
+
 
 
 ### 代码静态扫描、代码运行栈跟踪
@@ -247,6 +260,7 @@
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码扫描工具，FindSecBugs修改）
 - https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
 - https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
+- https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
 
 
 ### 模块化扫描、综合扫描器、shellcode工具
@@ -287,6 +301,7 @@
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 - https://github.com/archerysec/archerysec （漏洞扫描和管理平台）
 - https://github.com/jeffzh3ng/InsectsAwake （基于 Flask 应用框架的漏洞扫描系统）
+- https://github.com/AmyangXYZ/AssassinGo （使用Go开发的可扩展以及高并发渗透测试框架）
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 
 
