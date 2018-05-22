@@ -149,8 +149,7 @@
 ### webshell检测以及病毒分析工具
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell_samples （webshell样本库合集）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
-- https://github.com/yassineaddi/BackdoorMan （PHP后门扫描）
-- https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
+- https://github.com/he1m4n6a/findWebshell （一款webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
