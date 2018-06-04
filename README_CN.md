@@ -78,6 +78,8 @@
 - https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
 - https://github.com/caffix/amass (Go语言开发的子域名枚举工具)
 - https://github.com/Ice3man543/subfinder (一个强劲的子域名枚举工具)
+- https://github.com/superfish9/hackcdn （寻找CDN背后的真实IP）
+- https://github.com/boy-hack/w8fuckcdn （通过扫描全网绕过CDN获取网站IP地址）
 
 
 ### 数据库扫描、注入工具
