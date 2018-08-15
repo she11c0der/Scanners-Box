@@ -348,8 +348,8 @@
 - https://github.com/Cymmetria/StrutsHoneypot 
 - https://github.com/mushorg/conpot （工控蜜罐）
 
-###
-- https://github.com/SecWiki/linux-kernel-exploits Linux平台提权漏洞集合
+### 提权漏洞集合:
+- https://github.com/SecWiki/linux-kernel-exploits 
 - https://github.com/ScottyBauer/Android_Kernel_CVE_POCs 
 
 
