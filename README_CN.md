@@ -58,7 +58,11 @@
 - https://github.com/mseclab/PyJFuzz  Python JSON Fuzzer
 - https://github.com/k0keoyo/kDriver-Fuzzer
 - https://github.com/koutto/ioctlbf
-
+- https://github.com/mwrlabs/OSXFuzz macOS Kernel Fuzzer
+- https://github.com/google/syzkaller kernel fuzzer
+- https://github.com/kernelslacker/trinity Linux system call fuzzer
+- https://github.com/ww9210/Linux_kernel_exploits  FUZE 
+- https://github.com/Battelle/sandsifter The x86 processor fuzzer
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
@@ -343,6 +347,11 @@
 - https://github.com/atiger77/Dionaea （Web_Dionaea: 基于Docker的蜜罐系统）
 - https://github.com/Cymmetria/StrutsHoneypot 
 - https://github.com/mushorg/conpot （工控蜜罐）
+
+###
+- https://github.com/SecWiki/linux-kernel-exploits Linux平台提权漏洞集合
+- https://github.com/ScottyBauer/Android_Kernel_CVE_POCs 
+
 
 ******
 
