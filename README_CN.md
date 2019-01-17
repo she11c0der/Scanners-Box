@@ -23,8 +23,8 @@
 - https://yq.aliyun.com/articles/87668                                        Node.js 安全清单
 - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md API-Security-Checklist
 - https://github.com/HackBraid/Sec-Mind                                       安全思维导图合辑
-
-
+- https://github.com/CHYbeta/Web-Security-Learning                            Web-Security-Learning
+- https://bloodzer0.github.io/ossa/                                           开源安全框架
 
 ### sql-injection sql注入语句整理站点
 - https://sqlwiki.netspi.com/
@@ -65,6 +65,9 @@
 - https://github.com/kernelslacker/trinity Linux system call fuzzer
 - https://github.com/ww9210/Linux_kernel_exploits  FUZE 
 - https://github.com/Battelle/sandsifter The x86 processor fuzzer
+- https://github.com/ele7enxxh/android-afl android-afl
+- https://github.com/Barro/java-afl java-afl
+- https://github.com/shellphish/fuzzer A Python interface to AFL
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
@@ -322,6 +325,7 @@
 ### Android系列工具：
 - http://sec-redclub.com/index.php/archives/439/
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码安全扫描工具，根据Find-Sec-Bugs修改）
+- https://github.com/hookmaster/frida-all-in-one  （FRIDA操作手册）
 
 
 ### DDOS防护：
