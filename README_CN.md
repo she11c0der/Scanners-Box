@@ -25,6 +25,13 @@
 - https://github.com/HackBraid/Sec-Mind                                       安全思维导图合辑
 - https://github.com/CHYbeta/Web-Security-Learning                            Web-Security-Learning
 - https://bloodzer0.github.io/ossa/                                           开源安全框架
+- https://github.com/ym2011/SecurityTechnique                                 安全技术合集
+
+### 内网渗透TIPS
+- https://github.com/Ridter/Intranet_Penetration_Tips    
+
+### 威胁情报网站
+https://github.com/scu-igroup/threat-intelligence
 
 ### sql-injection sql注入语句整理站点
 - https://sqlwiki.netspi.com/
@@ -46,7 +53,7 @@
 ### 各种漏洞环境，开源漏洞靶场
 - https://github.com/Medicean/VulApps
 - https://github.com/vulhub/vulhub
-
+- https://github.com/c0ny1/upload-labs 文件上传漏洞靶场
 
 ### fuzz工具收集
 - https://github.com/ivanfratric/winafl
@@ -315,6 +322,7 @@
 - https://github.com/jeffzh3ng/InsectsAwake （基于 Flask 应用框架的漏洞扫描系统）
 - https://github.com/AmyangXYZ/AssassinGo （使用Go开发的可扩展以及高并发渗透测试框架）
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
+- https://github.com/opensec-cn/kunpeng (开源POC检测框架)
 
 
 ### 工控安全工具集
@@ -372,7 +380,7 @@
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
 ### 致谢
-- **https://github.com/We5ter/Scanners-Box （部分内容转载于此）
+-- **https://github.com/We5ter/Scanners-Box （部分内容转载于此）
 @0c0c0f
 @Mottoin team
 @BlackHole
