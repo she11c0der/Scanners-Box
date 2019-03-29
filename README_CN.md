@@ -59,6 +59,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/ivanfratric/winafl
 - https://github.com/google/honggfuzz
 - https://github.com/google/oss-fuzz
+- https://github.com/google/syzkaller  syzkaller -kernel fuzzer.
 - https://github.com/riusksk/riufuzz
 - https://github.com/attekett/NodeFuzz
 - http://blog.topsec.com.cn/ad_lab/alphafuzzer/
@@ -75,6 +76,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/ele7enxxh/android-afl android-afl
 - https://github.com/Barro/java-afl java-afl
 - https://github.com/shellphish/fuzzer A Python interface to AFL
+
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
