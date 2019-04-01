@@ -190,6 +190,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/AlessandroZ/LaZagne             （本机密码查看提取工具）
 - https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
 - https://github.com/fatedier/frp                    （frp用于内网穿透的高性能的反向代理应用，支持tcp,udp,http,https协议）
+- https://github.com/cnlh/nps                        （一款轻量级、功能强大的内网穿透代理服务器）
 
 
 ### 端口扫描、指纹识别以及中间件扫描
