@@ -326,6 +326,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/AmyangXYZ/AssassinGo （使用Go开发的可扩展以及高并发渗透测试框架）
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 - https://github.com/opensec-cn/kunpeng (开源POC检测框架)
+- https://github.com/knownsec/pocsuite3 （知道创宇出品漏洞利用测试框架pocsuite3）
 
 
 ### 工控安全工具集
