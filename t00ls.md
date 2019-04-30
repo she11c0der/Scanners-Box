@@ -339,6 +339,7 @@ https://github.com/scu-igroup/threat-intelligence
 - http://sec-redclub.com/index.php/archives/439/
 - https://github.com/blackarbiter/Android_Code_Arbiter （针对Android Studio的源码安全扫描工具，根据Find-Sec-Bugs修改）
 - https://github.com/hookmaster/frida-all-in-one  （FRIDA操作手册）
+- https://github.com/tangsilian/android-vuln （安卓内核提权漏洞分析）
 
 
 ### DDOS防护：
