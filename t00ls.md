@@ -27,12 +27,20 @@
 - https://bloodzer0.github.io/ossa/                                           开源安全框架
 - https://github.com/ym2011/SecurityTechnique                                 安全技术合集
 
+
+### 勒索软件在线解密工具
+- https://www.nomoreransom.org/zh/decryption-tools.html
+- http://lesuobingdu.360.cn/
+
+
 ### 内网渗透TIPS
 - https://github.com/Ridter/Intranet_Penetration_Tips    
 - https://github.com/Micropoor/Micro8
 
+
 ### 威胁情报网站
 https://github.com/scu-igroup/threat-intelligence
+
 
 ### sql-injection sql注入语句整理站点
 - https://sqlwiki.netspi.com/
@@ -40,6 +48,7 @@ https://github.com/scu-igroup/threat-intelligence
 - http://www.sqlinjectionwiki.com/
 - http://pentestmonkey.net/category/cheat-sheet/sql-injection
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
 
 ### 在线恶意软件分析服务站点
 - https://www.virustotal.com/
@@ -51,10 +60,12 @@ https://github.com/scu-igroup/threat-intelligence
 - https://malshare.com/
 - https://x.threatbook.cn/en
 
+
 ### 各种漏洞环境，开源漏洞靶场
 - https://github.com/Medicean/VulApps
 - https://github.com/vulhub/vulhub
 - https://github.com/c0ny1/upload-labs 文件上传漏洞靶场
+
 
 ### fuzz工具收集
 - https://github.com/ivanfratric/winafl
