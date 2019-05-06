@@ -269,7 +269,8 @@ https://github.com/scu-igroup/threat-intelligence
 
 
 
-### 代码静态扫描、代码运行栈跟踪
+### 代码静态扫描、代码运行栈跟踪、代码安全审计
+- https://github.com/securego/gosec （Golang代码安全审计）
 - https://github.com/exakat/php-static-analysis-tools （php静态扫描工具集）
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/LoRexxar/Cobra-W （cobra白帽子版本）
