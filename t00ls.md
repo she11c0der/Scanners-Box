@@ -8,6 +8,9 @@
 ******
 
 ### 入门指南
+- https://sec-wiki.com/                                                       sec-wiki安全维基百科
+- http://www.freebuf.com/                                                     FreeBuf.COM|关注黑客与极客
+- https://github.com/HackBraid/Sec-Mind                                       安全思维导图合辑
 - https://wizardforcel.gitbooks.io/web-hacking-101/content/                   Web Hacking 101 中文版
 - https://wizardforcel.gitbooks.io/asani/content/                             浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content/                              Android 渗透测试学习手册 中文版
@@ -15,17 +18,16 @@
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial         Linux exploit 开发入门
 - https://github.com/smartFlash/pySecurity                                    Python系列教程教程
 - https://www.gitbook.com/book/t0data/burpsuite/details                       Burpsuite实战指南
-- https://github.com/qazbnm456/awesome-web-security                           Web安全资料和资源列表 
 - https://security.tencent.com/index.php/blog/msg/113                         中小企业网络安全建设指引（TSRC）
-- https://sec-wiki.com/                                                       sec-wiki安全维基百科
-- http://www.freebuf.com/                                                     FreeBuf.COM|关注黑客与极客
 - http://www.freebuf.com/articles/web/152891.html                             Node.js Web的安全问题
 - https://yq.aliyun.com/articles/87668                                        Node.js 安全清单
 - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md API-Security-Checklist
-- https://github.com/HackBraid/Sec-Mind                                       安全思维导图合辑
+- https://github.com/qazbnm456/awesome-web-security                           Web安全资料和资源列表 
 - https://github.com/CHYbeta/Web-Security-Learning                            Web-Security-Learning
 - https://bloodzer0.github.io/ossa/                                           开源安全框架
 - https://github.com/ym2011/SecurityTechnique                                 安全技术合集
+- https://bypass007.github.io/Emergency-Response-Notes/                       应急响应实战笔记
+
 
 
 ### 勒索软件在线解密工具
