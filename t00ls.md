@@ -369,7 +369,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/
-- https://github.com/lanzsec/tengine_waf
 - https://github.com/bollwarm/App-Waf
 - https://github.com/titansec/OpenWAF
 - https://github.com/jx-sec/jxwaf
