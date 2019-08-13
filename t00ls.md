@@ -385,6 +385,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/atiger77/Dionaea （Web_Dionaea: 基于Docker的蜜罐系统）
 - https://github.com/Cymmetria/StrutsHoneypot 
 - https://github.com/mushorg/conpot （工控蜜罐）
+- https://github.com/hacklcx/HFish （扩展企业安全测试主动诱导型蜜罐框架系统）
 
 ### 提权漏洞集合:
 - https://github.com/SecWiki/linux-kernel-exploits 
