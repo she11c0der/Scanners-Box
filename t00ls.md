@@ -175,6 +175,7 @@ https://github.com/scu-igroup/threat-intelligence
 
 
 ### 企业网络自检
+- https://cn.gobies.org/ （帮企业梳理资产暴露攻击面）
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
