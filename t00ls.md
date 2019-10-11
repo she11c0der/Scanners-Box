@@ -141,7 +141,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/n0tr00t/Sreg (通过输入email、phone、username的返回用户注册的所有互联网护照信息)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/GDSSecurity/xxe-recursive-download  （xxe漏洞递归下载工具）
-- https://buer.haus/xxegen/  （xxe在线生成利用工具）
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier （支持160多种Hash加密方式的识别）
 - https://github.com/x90skysn3k/brutespry  （通过nmap扫描结果去爆破各种协议弱口令）
 - https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
