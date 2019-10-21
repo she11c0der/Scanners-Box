@@ -153,7 +153,7 @@ https://github.com/scu-igroup/threat-intelligence
 ### 物联网设备扫描
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
-- https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
+- https://github.com/sh1nu11bi/Routerhunter-2.0 （路由器漏洞扫描利用)
 - https://github.com/reverse-shell/routersploit （路由器漏洞利用框架）
 - https://github.com/scu-igroup/telnet-scanner  (telnet服务密码撞库)
 - https://github.com/RUB-NDS/PRET              （打印机攻击框架）
