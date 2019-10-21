@@ -27,8 +27,7 @@
 - https://bloodzer0.github.io/ossa/                                           开源安全框架
 - https://github.com/ym2011/SecurityTechnique                                 安全技术合集
 - https://bypass007.github.io/Emergency-Response-Notes/                       应急响应实战笔记
-
-
+- https://github.com/guanchao/AndroidChecklist                                Android应用审计checklist
 
 ### 勒索软件在线解密工具
 - https://www.nomoreransom.org/zh/decryption-tools.html
@@ -91,7 +90,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/Barro/java-afl java-afl
 - https://github.com/shellphish/fuzzer A Python interface to AFL
 - https://github.com/dark-lbp/snmp_fuzzer snmp fuzzer
-
+- https://github.com/PAGalaxyLab/uniFuzzer uniFuzzer
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
