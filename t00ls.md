@@ -91,6 +91,8 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/shellphish/fuzzer A Python interface to AFL
 - https://github.com/dark-lbp/snmp_fuzzer snmp fuzzer
 - https://github.com/PAGalaxyLab/uniFuzzer uniFuzzer
+- https://github.com/dvyukov/go-fuzz go fuzz
+
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
