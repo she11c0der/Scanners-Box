@@ -92,6 +92,8 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/dark-lbp/snmp_fuzzer snmp fuzzer
 - https://github.com/PAGalaxyLab/uniFuzzer uniFuzzer
 - https://github.com/dvyukov/go-fuzz go fuzz
+- https://github.com/connor4312/js-fuzz js fuzz
+- https://github.com/k0keoyo/kDriver-Fuzzer driver Fuzzer
 
 
 ### 子域名枚举
