@@ -326,6 +326,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
 - https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 - https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
+- https://github.com/seecode-audit/seecode-scanner （seecode-scanner是一个扫描引擎框架）
 
 
 ### 模块化扫描、综合扫描器、shellcode工具
