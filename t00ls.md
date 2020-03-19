@@ -175,6 +175,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/evilcos/xssor2  （Hack with JavaScript）
 - https://github.com/bugbountyforum/XSS-Radar  （A Chrome extension for fast and easy XSS fuzzing）
 - https://github.com/stamparm/DSXS （xss跨站漏洞扫描小工具）
+- https://github.com/TheKingOfDuck/easyXssPayload （easyXssPayload）
 
 
 ### 企业网络自检
