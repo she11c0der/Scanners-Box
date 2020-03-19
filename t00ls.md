@@ -94,6 +94,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/dvyukov/go-fuzz go fuzz
 - https://github.com/connor4312/js-fuzz js fuzz
 - https://github.com/k0keoyo/kDriver-Fuzzer driver Fuzzer
+- https://github.com/TheKingOfDuck/fuzzDicts Web Pentesting Fuzz Dicts
 
 
 ### 子域名枚举
