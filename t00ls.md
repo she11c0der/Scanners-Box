@@ -373,6 +373,8 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/wetw0rk/Sickle （一款功能强大的Shellcode开发工具）
 - https://github.com/opensec-cn/kunpeng (开源POC检测框架)
 - https://github.com/knownsec/pocsuite3 （知道创宇出品漏洞利用测试框架pocsuite3）
+- https://github.com/kingkaki/ctf-wscan （一个为ctf而生的web扫描器）
+- https://github.com/gobysec/Goby （帮企业梳理资产暴露攻击面）
 
 
 ### 工控安全工具集
@@ -433,13 +435,4 @@ https://github.com/scu-igroup/threat-intelligence
 
 ### 致谢
 -- **https://github.com/We5ter/Scanners-Box （部分内容转载于此）
-@0c0c0f
-@Mottoin team
-@BlackHole
-@CodeColorist
-@3xp10it
-@re4lity
-@UltimateHackers team
-@boy-hack
-@marsII
-@tom0li
+
