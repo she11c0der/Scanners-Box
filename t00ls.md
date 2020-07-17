@@ -95,7 +95,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/connor4312/js-fuzz js fuzz
 - https://github.com/k0keoyo/kDriver-Fuzzer driver Fuzzer
 - https://github.com/TheKingOfDuck/fuzzDicts Web Pentesting Fuzz Dicts
-
+- https://github.com/m-y-mo/android_nfc_fuzzer android_nfc_fuzzer
 
 ### 子域名枚举
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
