@@ -164,7 +164,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/reverse-shell/routersploit （路由器漏洞利用框架）
 - https://github.com/scu-igroup/telnet-scanner  (telnet服务密码撞库)
 - https://github.com/RUB-NDS/PRET              （打印机攻击框架）
-- https://github.com/jh00nbr/Routerhunter-2.0  （路由器漏洞自动化扫描工具）
 
 
 ### XSS利用相关
