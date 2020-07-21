@@ -188,6 +188,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
 
+
 ### webshell检测以及病毒分析工具
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell_samples （webshell样本库合集）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
@@ -287,7 +288,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/stevespringett/dependency-track （第三方库漏洞检查工具）
 - https://github.com/jeremylong/DependencyCheck （第三方库漏洞检查工具-owasp出品）
 - https://github.com/MXi4oyu/DockerXScan （Docker镜像漏洞扫描器）
-
+- https://github.com/0xn0ne/weblogicScanner （weblogic 漏洞扫描工具）
 
 ### 无线网络渗透、扫描、审计
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
@@ -377,6 +378,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/knownsec/pocsuite3 （知道创宇出品漏洞利用测试框架pocsuite3）
 - https://github.com/kingkaki/ctf-wscan （一个为ctf而生的web扫描器）
 - https://github.com/gobysec/Goby （帮企业梳理资产暴露攻击面）
+- https://github.com/WyAtu/Perun （Perun是一款网络资产漏洞扫描器/扫描框架）
 
 
 ### 工控安全工具集
