@@ -29,15 +29,18 @@
 - https://bypass007.github.io/Emergency-Response-Notes/                       应急响应实战笔记
 - https://github.com/guanchao/AndroidChecklist                                Android应用审计checklist
 
+
 ### 勒索软件在线解密工具
 - https://www.nomoreransom.org/zh/decryption-tools.html
 - http://lesuobingdu.360.cn/
+
 
 ### 漏洞靶场
 - https://github.com/fofapro/vulfocus
 - https://github.com/vulhub/vulhub
 - https://github.com/Medicean/VulApps
 - https://github.com/c0ny1/upload-labs 文件上传漏洞靶场
+
 
 ### 内网渗透TIPS
 - https://github.com/Ridter/Intranet_Penetration_Tips    
@@ -65,7 +68,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://virusshare.com/
 - https://malshare.com/
 - https://x.threatbook.cn/en
-
 
 
 ### fuzz工具收集
@@ -271,6 +273,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/brianwrf/hackUtils （java反序列化利用工具集）
 - https://github.com/frohoff/ysoserial （java反序列化利用工具）
 - https://github.com/mbechler/marshalsec (java，json反序列化利用工具)
+- https://github.com/joaomatosf/jexboss （Jboss exploitation Tool）
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz漏洞扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
