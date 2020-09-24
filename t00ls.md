@@ -190,7 +190,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
 
-
 ### webshell检测以及病毒分析工具
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell_samples （webshell样本库合集）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
@@ -216,6 +215,8 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
 - https://github.com/fatedier/frp                    （frp用于内网穿透的高性能的反向代理应用，支持tcp,udp,http,https协议）
 - https://github.com/cnlh/nps                        （一款轻量级、功能强大的内网穿透代理服务器）
+- https://github.com/truongnctrieu/CThun             （CThun是集成快速端口扫描,服务识别,网站识别和暴力破解的工具）
+- https://github.com/moonD4rk/HackBrowserData        （一款可全平台运行的浏览器数据导出解密工具）
 
 
 ### 社工钓鱼测试工具，在线邮件伪造平台
@@ -291,6 +292,8 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/jeremylong/DependencyCheck （第三方库漏洞检查工具-owasp出品）
 - https://github.com/MXi4oyu/DockerXScan （Docker镜像漏洞扫描器）
 - https://github.com/0xn0ne/weblogicScanner （weblogic 漏洞扫描工具）
+- https://github.com/feihong-cs/Java-Rce-Echo （Java RCE 回显测试代码）
+
 
 ### 无线网络渗透、扫描、审计
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
@@ -302,7 +305,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/DanMcInerney/LANs.py (ARP欺骗，无线网络劫持）
 - https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
 - https://github.com/derv82/wifite2 （自动化无线网络攻击工具wifite的重构版本）
-
 
 
 ### 代码静态扫描、代码运行栈跟踪、代码安全审计
@@ -381,7 +383,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/kingkaki/ctf-wscan （一个为ctf而生的web扫描器）
 - https://github.com/gobysec/Goby （帮企业梳理资产暴露攻击面）
 - https://github.com/WyAtu/Perun （Perun是一款网络资产漏洞扫描器/扫描框架）
-
+- https://github.com/Echocipher/AUTO-EARN （一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具）
 
 ### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
