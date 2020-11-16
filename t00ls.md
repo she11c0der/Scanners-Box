@@ -9,6 +9,7 @@
 ### 合规审计
 https://github.com/momosecurity/bombus
 
+
 ### 入门指南
 - https://sec-wiki.com/                                                       sec-wiki安全维基百科
 - http://www.freebuf.com/                                                     FreeBuf.COM|关注黑客与极客
@@ -123,6 +124,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/boy-hack/w8fuckcdn （通过扫描全网绕过CDN获取网站IP地址）
 - https://github.com/shmilylty/OneForAll （子域收集工具）
 
+
 ### 数据库扫描、注入工具
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/ron190/jsql-injection （jsql-injection java写的注入工具，支持数据库全）
@@ -204,19 +206,6 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
 - https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
 - https://github.com/droidefense/engine (高级安卓木马病毒分析框架）
-
-
-### 内网安全渗透测试工具集
-- https://github.com/0xwindows/VulScritp             （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
-- https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
-- https://github.com/fdiskyou/hunter                 （调用 Windows API 枚举用户登录信息）
-- https://github.com/BlackHole1/WebRtcXSS            （自动化利用XSS入侵内网）
-- https://github.com/AlessandroZ/LaZagne             （本机密码查看提取工具）
-- https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
-- https://github.com/fatedier/frp                    （frp用于内网穿透的高性能的反向代理应用，支持tcp,udp,http,https协议）
-- https://github.com/cnlh/nps                        （一款轻量级、功能强大的内网穿透代理服务器）
-- https://github.com/truongnctrieu/CThun             （CThun是集成快速端口扫描,服务识别,网站识别和暴力破解的工具）
-- https://github.com/moonD4rk/HackBrowserData        （一款可全平台运行的浏览器数据导出解密工具）
 
 
 ### 社工钓鱼测试工具，在线邮件伪造平台
@@ -384,6 +373,38 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/gobysec/Goby （帮企业梳理资产暴露攻击面）
 - https://github.com/WyAtu/Perun （Perun是一款网络资产漏洞扫描器/扫描框架）
 - https://github.com/Echocipher/AUTO-EARN （一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具）
+
+
+### 内网安全渗透测试工具集
+- https://github.com/0xwindows/VulScritp             （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
+- https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
+- https://github.com/fdiskyou/hunter                 （调用 Windows API 枚举用户登录信息）
+- https://github.com/BlackHole1/WebRtcXSS            （自动化利用XSS入侵内网）
+- https://github.com/AlessandroZ/LaZagne             （本机密码查看提取工具）
+- https://github.com/huntergregal/mimipenguin        （linux密码抓取神器）
+- https://github.com/truongnctrieu/CThun             （CThun是集成快速端口扫描,服务识别,网站识别和暴力破解的工具）
+- https://github.com/moonD4rk/HackBrowserData        （一款可全平台运行的浏览器数据导出解密工具）
+- https://github.com/shadow1ng/fscan                 （一款内网扫描工具）
+
+
+### 端口转发与代理工具
+- https://github.com/cnlh/nps                        （一款轻量级、功能强大的内网穿透代理服务器）
+- https://github.com/fatedier/frp                    （用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议）
+- https://github.com/inconshreveable/ngrok           （端口转发，正反向代理，内网穿透）
+- http://ngrok.ciqiuwl.cn/                           （在线小米球 ngrok）
+- https://github.com/knownsec/rtcp                   （Socket 端口转发，用于远程维护）
+- https://github.com/davrodpin/mole                  （基于 ssh 的端口转发）
+- http://rootkiter.com/EarthWorm                     （一款用于开启 SOCKS v5 代理服务的工具，基于标准 C 开发，可提供多平台间的转接通讯，复杂环境下的数据转发）
+- http://rootkiter.com/Termite/README.txt            （EarthWorm 升级版，可以实现多节点跳跃）
+- https://github.com/SECFORCE/Tunna                  （可通过 HTTP封装隧道通信任何 TCP，以及用于绕过防火墙环境中的网络限制）
+- https://github.com/fbkcs/thunderdns                （将tcp流量通过 DNS 协议转发，不需要客户端和socket5支持）
+- https://github.com/sensepost/reGeorg               （reDuh 的升级版，主要是把内网服务器的端口通过 http/https 隧道转发，提供了 php，asp，jsp 脚本的正反向代理）
+- https://github.com/SpiderClub/haipproxy            （py3,Scrapy and Redis,高可用 ip 代理池）
+- https://github.com/chenjiandongx/async-proxy-pool  （py3 异步爬虫 ip 代理池）
+- https://github.com/audibleblink/doxycannon         （使用一个 openvpn 代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发）
+- https://github.com/decoder-it/psportfwd            （PowerShell 编写的端口转发工具, 无需 admin 权限）
+- https://github.com/ls0f/gortcp                     （go，通过主控端、中转、被控端实现内网穿透）
+
 
 ### 工控安全工具集
 - http://icsmaster.com/tool/icstools.html
