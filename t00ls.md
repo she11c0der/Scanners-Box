@@ -136,6 +136,7 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/WhitewidowScanner/whitewidow (又一款数据库扫描器)
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/commixproject/commix （注入点命令执行利用工具）
+- https://github.com/SafeGroceryStore/MDAT (数据库攻击利用工具)
 
 
 ### 弱口令或信息泄漏扫描，hash识别，日志分析插件
