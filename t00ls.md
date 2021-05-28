@@ -32,6 +32,9 @@ https://github.com/momosecurity/bombus
 - https://bypass007.github.io/Emergency-Response-Notes/                       应急响应实战笔记
 - https://github.com/guanchao/AndroidChecklist                                Android应用审计checklist
 
+### 渗透测试合集
+- https://github.com/xiaoy-sec/Pentest_Note  渗透测试常规操作记录
+
 
 ### 勒索软件在线解密工具
 - https://www.nomoreransom.org/zh/decryption-tools.html
@@ -448,9 +451,10 @@ https://github.com/scu-igroup/threat-intelligence
 - https://github.com/mushorg/conpot （工控蜜罐）
 - https://github.com/hacklcx/HFish （扩展企业安全测试主动诱导型蜜罐框架系统）
 
-### 提权漏洞集合:
+### 漏洞集合:
 - https://github.com/SecWiki/linux-kernel-exploits 
 - https://github.com/ScottyBauer/Android_Kernel_CVE_POCs 
+- https://github.com/hhroot/2021_Hvv
 
 
 ******
